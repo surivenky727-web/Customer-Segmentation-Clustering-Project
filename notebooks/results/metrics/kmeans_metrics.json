@@ -1,0 +1,6 @@
+{
+  "n_clusters": 5,
+  "silhouette_score": 0.4166,
+  "davies_bouldin_index": 0.8746,
+  "calinski_harabasz_index": 125.1009
+}

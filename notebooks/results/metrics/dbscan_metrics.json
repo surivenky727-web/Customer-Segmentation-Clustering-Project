@@ -1,0 +1,8 @@
+{
+  "n_clusters": 5,
+  "silhouette_score": 0.5278,
+  "davies_bouldin_index": 0.6043,
+  "calinski_harabasz_index": 144.3788,
+  "n_noise_points": 66,
+  "noise_percentage": 33.0
+}
